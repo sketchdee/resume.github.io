@@ -1,2 +1,2 @@
 # resume.github.io
-this is my resume.
+my resume link -> https://sketchdee.github.io/resume.github.io/.
